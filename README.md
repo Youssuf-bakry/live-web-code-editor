@@ -14,7 +14,7 @@ The task is to implement auto-save functionality with localStorage, and auto-loa
 
 # Click the image for live demo
 
-[<img src='./blob.jpg'>]()
+[<img src='./blob.jpg'>](https://youssuf-bakry.github.io/live-web-code-editor/)
 
 ## Technologies used
 
